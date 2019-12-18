@@ -20,7 +20,11 @@ db.commit()
 cur.close()
 db.close()
 
-方案一
+# 方案一
+
+# 本地发生改变
+
+
 
 
 
