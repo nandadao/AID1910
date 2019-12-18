@@ -20,6 +20,8 @@ db.commit()
 cur.close()
 db.close()
 
+方案一
+
 
 
 
